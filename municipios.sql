@@ -1,4 +1,4 @@
-INSERT INTO `Municipio` (`idMunicipio`, `region`, `codigoDepartamento`, `departamento`, `codigoMunicipio`, `municipio`) 
+INSERT INTO `Municipio` (`idMunicipio`, `region`, `codigoDepartamento`, `departamento`, `codigoMunicipio`, `municipio`) VALUES
 (1,'Región Eje Cafetero - Antioquia',5,'Antioquia',5001,'Medellín'),
 (2,'Región Eje Cafetero - Antioquia',5,'Antioquia',5002,'Abejorral'),
 (3,'Región Eje Cafetero - Antioquia',5,'Antioquia',5004,'Abriaquí'),
